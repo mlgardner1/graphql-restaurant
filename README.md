@@ -1,5 +1,5 @@
 # graphql-restaurant
 MITxPro assignment
 
-##Instructions
+## Instructions
 Run "npm install" and then "nodemon index.js". 
